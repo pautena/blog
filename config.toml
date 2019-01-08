@@ -34,6 +34,11 @@ pygmentsStyle = "murphy"
     url = "//explorer.skycoin.net"
     weight = 6
 [[menu.main]]
+    name = "Explorer API"
+    identifier = "explorerApi"
+    url = "//explorer.skycoin.net/api.html"
+    weight = 7
+[[menu.main]]
     name = "Downloads"
     identifier = "downloads"
     url = "/downloads/"
